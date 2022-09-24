@@ -1,9 +1,10 @@
 title: "みんなで挑戦!U-16プログラミングコンテスト"
-summary: ""
-topics: []
+summary: "部員のための研修用資料です。\nもしかしたら公開するかも"
+topics: ["Python","CHaser"]
 published: false
 price: 0 # 有料の場合200〜5000
 # 本に含めるチャプターを順番に並べましょう
 chapters:
-  - example1
-  - example2
+  - first_page
+  - setup_portable
+  - setup_desktop
